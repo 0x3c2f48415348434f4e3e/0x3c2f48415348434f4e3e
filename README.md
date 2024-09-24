@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am Benjamin
+Call me La HashCon, but if you see 0x4C612048617368436F6E, thats me too
 - 🔭 I’m currently working on some open source software
-- 🌱 I’m currently learning Go and Rust
+- 🌱 I’m currently learning Zig
 - 👯 I’m looking to collaborate on any projects
 <!--
 **0x3c2f48415348434f4e3e/0x3c2f48415348434f4e3e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
